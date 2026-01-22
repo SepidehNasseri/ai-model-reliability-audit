@@ -29,6 +29,10 @@ This project answers:
    - Missing value analysis
    - Target distribution
    - Feature slicing by age and income
+## Notebook
+The full analysis is available as a Kaggle notebook:
+
+👉 [Kaggle Notebook – Credit Risk Reliability Audit](PASTE_KAGGLE_LINK_HERE)
 
 2. **Baseline Model**
    - Logistic Regression
